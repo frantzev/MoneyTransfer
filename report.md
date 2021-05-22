@@ -13,7 +13,7 @@
 
 **Результаты тестирования**
 1. 0% успеха. Тест неуспешен.
-2. [Неверный результат при пополнении счёта VIP-клиента ](https://github.com/frantzev/moneyTransfer/issues/1)
+2. [Присвоен неверный примитивный тип "int" ](https://github.com/frantzev/moneyTransfer/issues/1)
 
 **Общие рекомендации**
 
